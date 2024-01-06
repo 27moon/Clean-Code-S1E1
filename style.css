@@ -21,7 +21,8 @@
 }
 
 @media (max-width:768px) {
-  .app-description { text-align: center;
+  .app-description { 
+    text-align: center;
 }
 }
 
@@ -46,11 +47,13 @@
   padding: 0px;
 }
 
-.list-item, .section-title {
+.list-item,
+.section-title {
   list-style: none;
 }
 
-.task-input, .button{
+.task-input,
+.button {
   outline:none;
 }
 
