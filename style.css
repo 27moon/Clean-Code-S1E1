@@ -21,7 +21,7 @@
 }
 
 @media (max-width:768px) {
-  .app-description { 
+  .header { 
     text-align: center;
 }
 }
@@ -135,7 +135,7 @@
   width: 226px;
 }
 
-.section__list-item > .input-text {
+.section__list-item > .section__task-input_input-text {
   width: 226px;
 }
 
